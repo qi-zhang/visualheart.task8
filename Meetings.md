@@ -1,3 +1,14 @@
+###Office Hours: November 23, 2013
+
+- **Group meeeting**
+  - 7 members from our group came to Soda Hall on Saturday to meet with Aaron and discuss our future goals. After waiting 40 minutes and seeing no sign of Aaron, we left. We wanted to talk to Aaron about how to approach the goals we set for ourselves so it was dissapointing that he wasn't there. 
+  - Planned to meet with the Quakers on Saturday but we assumed that they wouldn't show up since Aaron couldn't make it. 
+    - Due to miscommunication, the Quakers showed up right after we left.
+  - Didn't get to meet up with Aaron or the Quakers like we had planned.
+  - Will continue improving other groups graphs and understanding the Luen model
+  - Plan on meeting with the Quakers soon because we need to discuss how our two visualization groups are collaborating
+
+
 ###Class: November 21, 2013
 
 - **Summary**
