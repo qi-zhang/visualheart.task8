@@ -49,15 +49,22 @@
     - I had a little trouble downloading the DataFrame but once I did, the code ran smoothly
     - DataFrame name was wrong
   - **What to Improve**
-    - The graphs are colorful and contain a lot of data
-    - I am having a little trouble figuring out what the graph is showing. 
-    - The legend is just numbers 1-5. I'm not sure what these numbers correspond to.
+    - <del>The graphs are colorful and contain a lot of data
+    - <del>I am having a little trouble figuring out what the graph is showing. 
+    - <del>The legend is just numbers 1-5. I'm not sure what these numbers correspond to.
     - Spoke with quakers and now understand what the graph is showing
     - The quakers need help figuring out how to obtain the k and mu value from these graphs
   - **Code Readability**
-    - Should add comments and headers to the code; what it does and what to expect as an output
-    - Should add estimated waiting times
-  
+    - <del>Should add comments and headers to the code; what it does and what to expect as an output
+    - <del>Should add estimated waiting times
+  - **Improvements** (by Qi Zhang)
+
+    I improved Quakers-EarthquakeSuccessors.R make the code as well as the output graph easier to read. I also rewrote the internal loop of each part to fix the indexing issue. The improvement includes
+    - Added title for each plot to help people understanding the brief idea of each graph.
+    - Adjusted legend and y-label for each plot to help people understanding details of each graph.
+    - Rewrote the internal loop to make sure the index never exceed the length of the vector.
+    - Add tons of comments to make the code easy to read.
+    - Due to some technical problems, I can't commit new code and plots to this repo directly. They can be found in the [SUCCESSORS_IMPROVED] (https://github.com/qi-zhang/visualheart.task8/tree/master/SUCCESSORS_IMPROVED) folder.  
 
 ###Hashtag
 
