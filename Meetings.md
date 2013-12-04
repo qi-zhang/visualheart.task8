@@ -1,3 +1,9 @@
+###Class: December 3, 2013
+
+- **Summary**
+  -...
+
+
 ###Office Hours: November 23, 2013
 
 - **Group meeeting**
