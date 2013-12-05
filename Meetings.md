@@ -1,7 +1,9 @@
-###Class: December 3, 2013
+###Class: December 5, 2013
 
 - **Summary**
-  -...
+  - There is only one week left before the december 12th data science fair and the class still needs a presentable product
+  - Our group has been working on improving other groups graphs so some of our members are going to join the checking group
+  - The rest of the members are meeting tomorrow at 5 pm to work on the video project
 
 
 ###Office Hours: November 23, 2013
