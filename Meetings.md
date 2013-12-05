@@ -8,6 +8,9 @@
   - Our group has been working on improving other groups graphs so some of our members are going to join the checking group
   - The rest of the members are meeting tomorrow at 5 pm to work on the video project!
   - Check Visualizers Facebook group for updates and reminders!
+    - Facebook group: https://www.facebook.com/groups/187543704763841/
+    - Created events for the upcoming meetings in the next week
+    - Updated links
 
 
 ###Office Hours: November 23, 2013
